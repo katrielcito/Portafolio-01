@@ -2,7 +2,7 @@ export const proyectos: any[] = [
     {
       nombre: 'Contador',
       img: '/assets/contador.png',
-      tecnologias: ['Angular Framework', 'CSS', 'PWA'],
+      tecnologias: ['Angular Framework', 'CSS', 'PWA', "Bootstrap"],
       descripcion:
         'Aplicación de contador aprendiendo Angular y a manejar eventos y reactividad',
       url: 'https://cheery-platypus-872719.netlify.app/',
@@ -28,7 +28,7 @@ export const proyectos: any[] = [
       img: '/assets/pipes.png',
       tecnologias: ['Angular Framework', 'Bootstrap 5'],
       descripcion:
-        'Aplicacion de listado de tareas usando Bootstrap 5 como Framework para los estilos',
+        'Aplicacion con diferentes pipes que tenemos en Angular Framework',
       url: 'https://radiant-flan-e0f1dd.netlify.app/',
     },
     {
