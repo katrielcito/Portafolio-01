@@ -47,4 +47,12 @@ export const proyectos: any[] = [
         'Aplicación de formularios usando template y reactive',
       url: 'https://stellular-rolypoly-daef6d.netlify.app/',
     },
+    {
+      nombre: 'Card API',
+      img: '/assets/juegodecartas.png',
+      tecnologias: ['Angular Framework', 'CSS', 'PWA', "Render"],
+      descripcion:
+        'Aplicación de cartas usando render para su respectivo backend',
+      url: 'https://card-game-app-basic.netlify.app/',
+    }
   ];
