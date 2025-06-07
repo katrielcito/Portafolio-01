@@ -48,16 +48,8 @@ export const proyectos: any[] = [
       url: 'https://stellular-rolypoly-daef6d.netlify.app/',
     },
     {
-      nombre: 'Card API',
-      img: '/assets/juegodecartas.png',
-      tecnologias: ['Angular Framework', 'CSS', 'PWA', "Render"],
-      descripcion:
-        'Aplicación de cartas usando render para su respectivo backend',
-      url: 'https://card-game-app-basic.netlify.app/',
-    },
-    {
       nombre: 'Aplicación de Presupuesto con JS',
-      img: '/src/assets/Ingresos.png',
+      img: '/assets/Ingresos.png',
       tecnologias: ['JavaScript', 'CSS', 'HTML'],
       descripcion:
         'Aplicación de Presupuesto (Egresos/Ingresos) utilizando funciones en JS',
