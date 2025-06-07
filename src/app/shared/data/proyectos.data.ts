@@ -54,5 +54,13 @@ export const proyectos: any[] = [
       descripcion:
         'Aplicación de cartas usando render para su respectivo backend',
       url: 'https://card-game-app-basic.netlify.app/',
+    },
+    {
+      nombre: 'Aplicación de Presupuesto con JS',
+      img: '/src/assets/Ingresos.png',
+      tecnologias: ['JavaScript', 'CSS', 'HTML'],
+      descripcion:
+        'Aplicación de Presupuesto (Egresos/Ingresos) utilizando funciones en JS',
+      url: 'https://katrielxd.github.io/App-presupuesto-js/',
     }
   ];
