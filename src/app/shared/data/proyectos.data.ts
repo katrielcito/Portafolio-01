@@ -9,11 +9,11 @@ export const proyectos: any[] = [
     },
     {
       nombre: 'Pokeapp',
-      img: '/assets/pokeapp.png',
-      tecnologias: ['Angular Framework', 'Angular Material', 'PWA'],
+      img: '/assets/pokeeee.png',
+      tecnologias: ['JavaScript', 'React', 'HTML', 'CSS', 'Viril'],
       descripcion:
-        'Aplicacion de pokemon usando Angular Material para los estilos',
-      url: 'https://startling-smakager-b90bd4.netlify.app/',
+        'Aplicacion de pokemon usando Viril y React: Adivinar el pokemon',
+      url: 'https://katrielcito.github.io/pokeee/',
     },
     {
       nombre: 'Listado de Tareas',
